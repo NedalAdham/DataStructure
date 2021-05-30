@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+
+void mergeArrays(int x[],int y[],int a[],int s,int e){
+
+
+}
+
+void mergeSort(int a[],int s,int e){
+    if(s>=e){
+        return;
+    }
+
+    
+}
+
+int main(){
+
+
+  return 0;
+}
